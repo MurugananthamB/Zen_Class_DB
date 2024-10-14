@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6709debc42690f0be49b125b"
+  },
+  "task_id": 1,
+  "task_name": "JavaScript Exercise",
+  "date_assigned": {
+    "$date": "2023-10-11T00:00:00.000Z"
+  },
+  "date_due": {
+    "$date": "2023-10-15T00:00:00.000Z"
+  },
+  "submitted_by": [
+    {
+      "user_id": {
+        "$oid": "6709cd49a6676ca26c55a59d"
+      },
+      "submitted": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6709e5bc3eff328ab91ca0ab"
+  },
+  "task_id": 2,
+  "task_name": "React Exercise",
+  "date_assigned": {
+    "$date": "2023-10-12T00:00:00.000Z"
+  },
+  "date_due": {
+    "$date": "2023-10-16T00:00:00.000Z"
+  },
+  "submitted_by": [
+    {
+      "user_id": {
+        "$oid": "6709cd5fa6676ca26c55a59e"
+      },
+      "submitted": true,
+      "submission_date": {
+        "$date": "2023-10-16T00:00:00.000Z"
+      }
+    }
+  ]
+}]

@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6709e6903eff328ab91ca0ac"
+  },
+  "drive_id": 1,
+  "company_name": "Cognizant",
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "students_appeared": [
+    {
+      "user_id": {
+        "$oid": "6709cd49a6676ca26c55a59d"
+      },
+      "status": "selected"
+    },
+    {
+      "user_id": {
+        "$oid": "6709cd5fa6676ca26c55a59e"
+      },
+      "status": "rejected"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6709e6903eff328ab91ca0ad"
+  },
+  "drive_id": 2,
+  "company_name": "TCS",
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "students_appeared": [
+    {
+      "user_id": {
+        "$oid": "6709cd49a6676ca26c55a59d"
+      },
+      "status": "rejected"
+    }
+  ]
+}]

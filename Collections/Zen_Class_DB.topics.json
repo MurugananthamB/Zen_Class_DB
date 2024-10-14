@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6709e12711aa54bd4f15824b"
+  },
+  "topic_id": {
+    "$oid": "6500a8f36c33a36a28d79e81"
+  },
+  "topic_name": "Intro to Mongo DB",
+  "date": {
+    "$date": "2023-10-10T00:00:00.000Z"
+  },
+  "mentor_id": {
+    "$oid": "6500a8f36c33a36a28d79e91"
+  }
+},
+{
+  "_id": {
+    "$oid": "6709e12711aa54bd4f15824c"
+  },
+  "topic_id": {
+    "$oid": "6500a8f36c33a36a28d79e82"
+  },
+  "topic_name": "React Basics",
+  "date": {
+    "$date": "2023-10-12T00:00:00.000Z"
+  },
+  "mentor_id": {
+    "$oid": "6500a8f36c33a36a28d79e92"
+  }
+}]

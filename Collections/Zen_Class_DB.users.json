@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6709cd49a6676ca26c55a59d"
+  },
+  "user_id": 1,
+  "name": "Muruganantham Anand",
+  "email": "murugananthamanand01212@gmail.com",
+  "batch": "Zen 2024",
+  "codekata_solved": 55,
+  "attendance": [
+    {
+      "date": {
+        "$date": "2020-10-15T00:00:00.000Z"
+      },
+      "status": "absent"
+    },
+    {
+      "date": {
+        "$date": "2020-10-16T00:00:00.000Z"
+      },
+      "status": "present"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6709cd5fa6676ca26c55a59e"
+  },
+  "user_id": 2,
+  "name": "Shanmugamani",
+  "email": "ssmani@example.com",
+  "batch": "Zen 2024",
+  "codekata_solved": 75,
+  "attendance": [
+    {
+      "date": {
+        "$date": "2020-10-15T00:00:00.000Z"
+      },
+      "status": "present"
+    },
+    {
+      "date": {
+        "$date": "2020-10-17T00:00:00.000Z"
+      },
+      "status": "absent"
+    }
+  ]
+}]

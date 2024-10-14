@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6709e4f63eff328ab91ca0a9"
+  },
+  "mentor_id": 1,
+  "name": "Pugazharasan Mentor",
+  "mentees_count": 16,
+  "mentees": [
+    {
+      "user_id": {
+        "$oid": "6709cd49a6676ca26c55a59d"
+      },
+      "mentorship_start_date": {
+        "$date": "2020-10-01T00:00:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6709e4f63eff328ab91ca0aa"
+  },
+  "mentor_id": 2,
+  "name": "Vishnu Mentor",
+  "mentees_count": 10,
+  "mentees": [
+    {
+      "user_id": {
+        "$oid": "6709cd5fa6676ca26c55a59e"
+      },
+      "mentorship_start_date": {
+        "$date": "2020-10-01T00:00:00.000Z"
+      }
+    }
+  ]
+}]
